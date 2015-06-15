@@ -1,0 +1,10 @@
+1
+tribbles.txt
+
+1
+Standard
+4
+Tribble
+TwT
+MTMT
+NTAA

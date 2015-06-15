@@ -1,0 +1,22 @@
+Fail.
+Reverse.
+Poison.
+Freeze.
+Skip.
+Assimilate.
+Qapla'
+!Draw 7!/draw7
+!Draw 6!/draw6
+!Draw 5!/draw5
+!Draw 3!/draw3
+!Save Game!/save
+!Load Game!/load
+!Save Log!/log
+!Clear Log!/clear
+!Turn 40!/say Reverse;/setturn40
+Your turn.
+Hold on... Thinking...
+BRB wait please!
+Good Game!
+Wow!
+WTF!

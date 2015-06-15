@@ -1,0 +1,6 @@
+<version>
+<lastupdateYYMMDD>130403</lastupdateYYMMDD>
+<versionurl>http://lackeyccg-tribbles.googlecode.com/svn/trunk/tribbles/version.txt</versionurl>
+<updateurl>http://lackeyccg-tribbles.googlecode.com/svn/trunk/tribbles/updatelist.txt</updateurl>
+<message>Big Trouble in Little Qo'noS added.</message>
+</version>
