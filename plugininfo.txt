@@ -24,6 +24,12 @@
      <visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
+     <label>Trouble</label>
+     <visibletoowner>no</visibletoowner>
+     <visibletoothers>no</visibletoothers>
+     <isshared>yes</isshared>
+</gamezone>
+<gamezone>
      <label>Aside</label>
      <visibletoowner>yes</visibletoowner>
      <visibletoothers>no</visibletoothers>
@@ -90,7 +96,8 @@
 	<includeasbutton>no</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Draw to Aside</label><kind>TRANSFERCARD</kind>
+	<label>Draw to Aside</label>
+	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
 	<sourcegamezone>Deck</sourcegamezone>
 	<sourceposition>top</sourceposition>
@@ -100,13 +107,24 @@
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 <generalfunction>
-	<label>Draw to Removed</label><kind>TRANSFERCARD</kind>
+	<label>Draw to Removed</label>
+	<kind>TRANSFERCARD</kind>
 	<sourceowner>performer</sourceowner>
 	<sourcegamezone>Deck</sourcegamezone>
 	<sourceposition>top</sourceposition>
 	<destinationowner>performer</destinationowner>
 	<destinationgamezone>Removed</destinationgamezone>
 	<destinationposition>top</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Reveal Trouble</label>
+	<sourceowner>shared</sourceowner>
+		<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Trouble</sourcegamezone>
+	<sourceposition>top</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 <cardfunction>

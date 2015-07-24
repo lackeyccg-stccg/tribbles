@@ -1,0 +1,19 @@
+Name	Set	ImageFile	Info	Type	Count	Text
+... In the Astrometrics Lab	TR	100V	100V	Trouble		Shift: Miss 100,000 OR Replicate OR Draw 3 Players may not activate Replay tribbles. (Players may play Replay tribbles but not use their powers.)
+... In the Barber Shop	TR	101V	101V	Trouble		Shift: Miss 10,000 OR Copy OR Draw 3 When a player plays a Copy tribble, he or she may choose to copy Go instead of the top card of any play pile. (Go says take another turn.)
+... On the Bridge	TR	102V	102V	Trouble		Shift: Miss 1,000 OR Time Warp OR Lose 50,000 Each player starts the round with one less card in his or her hand (minimum 1).
+... In the Cloning Lab	TR	103V	103V	Trouble		Shift: Miss 1 OR Clone OR Draw 2 The "chain" is reversed. (The "chain" is now 100,000 - 10,000 - 1,000 - 100 - 10 - 1. The "chain" still begins with 1.)
+... In the Computer Core	TR	104V	104V	Trouble		Shift: Miss 100,000 OR Masaka OR Lose 50,000 When a player activates a Masaka tribble, each player must first set aside one card from hand. After completing the Masak, each player adds the card he or she set aside to his or her hand.
+... In the Conference Room	TR	105V	105V	Trouble		Shift: Miss 10 OR Tally OR Lose 50,000 Players may not activate Battle tribbles. (Players may play Battle tribbles but not use their powers.)
+... In the Crew Quarters	TR	106V	106V	Trouble		Shift: Miss 100 OR Score OR Lose 100,000 Players may not activate Utilize tribbles. (Players may play Utilize tribbles but not use their powers.)
+... In the Engine Room	TR	107V	107V	Trouble		Shift: Miss 10,000 OR Advance OR Draw 3 Players may not activate Go tribbles. (Players may play Go tribbles but not use their powers.)
+... In the Holodeck	TR	108V	108V	Trouble		Shift: Miss 1,000 OR Dance OR Draw 4 When a player plays a Reverse tribble or a Skip tribble, he or she may re-order his or her play pile.
+... At Manheim's Lab	TR	109V	109V	Trouble		Shift: Miss 1,000 OR Party OR Draw 2 At the start of each player's turn, every player puts the top card of their deck beneath their play pile.
+... In the Mess Hall	TR	110V	110V	Trouble		Shift: Miss 100 OR BiJ OR Lose 50,000 Each player that did not go out this round scores 100,000 points.
+... In the Morgue	TR	111V	111V	Trouble		Shift: Miss 10 OR Rescue OR Lose 100,000 When a player plays a Replay or Rescue tribble, each other player may place a card from his or her discard pile on the top or bottom of his or her deck.
+... In the Ore Processing Unit	TR	112V	112V	Trouble		Shift: Miss 1 OR Draw OR Draw 3 Players may not activate Discard tribbles. (Players may play Discard tribbles but not use their powers.)
+... At Quark's Bar	TR	113V	113V	Trouble		Shift: Miss 100,000 OR Bonus OR Lose 100,000 When a player plays a Bonus tribble, if he or she has at least two cards in hand, he or she may place a Bonus tribble from hand beneath his or her play pile.
+... In the Ready Room	TR	114V	114V	Trouble		Shift: Miss 10,000 OR Discard OR Draw 4 When a player plays a Discard tribble, each ther player may discard a card from hand.
+... In the Security Office	TR	115V	115V	Trouble		Shift: Miss 1 OR Freeze OR Draw 3 When a player plays a Freeze tribble, he or she may name an additional tribble power to be affected.
+... In Sickbay	TR	116V	116V	Trouble		Shift: Miss 10 OR Mutate OR Lose 100,000 Players may not activate Poison tribbles. (Players may play Poison tribbles but not use their powers.)
+... In the Transporter Room	TR	117V	117V	Trouble		Shift: Miss 100 OR Scan OR Draw 3 Players may not activate Rescue tribbles. (Players may play Rescue tribbles but not use their powers.)

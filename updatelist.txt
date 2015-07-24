@@ -1,9 +1,11 @@
-tribbles	04-03-13
+tribbles	07-23-15
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/defaultchat.txt	22546
-plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	445911
-plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	29493
+plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	492935
+plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	31551
 plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/setlist.txt	3828
-plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/tribbles.txt	1489018
+plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master//saved/start.txt	49066
+plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/tribbles.txt	1602839
+plugins/tribbles/sets/trouble.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/trouble.txt	293513
 plugins/tribbles/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/cardback.jpg	179863
 plugins/tribbles/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/CardMissing.jpg	177461
 plugins/tribbles/sets/setimages/general/Spawned.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/Spawned.jpg	163676
@@ -13,7 +15,7 @@ images/avatars/av-tr-data2.jpg	https://raw.githubusercontent.com/lackeyccg-stccg
 images/avatars/av-tr-picard1.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/av-tr-picard1.jpg	8
 images/avatars/av-tr-worf1.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/av-tr-worf1.jpg	1977
 images/avatars/av-tr-worf2.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/av-tr-worf2.jpg	3062
-images/backgrounds/bg-tr-plain.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/bg-st-plain.jpg	-2796
+images/backgrounds/bg-tr-plain.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/tribbles/bg-st-plain.jpg	-2796
 plugins/tribbles/bot.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/bot.jpg	6383
 CardGeneralURLs:		
 https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/
