@@ -1,0 +1,19 @@
+<formatdefinitions>
+<format>
+	<label>Standard</label>
+	<set> TwT</set>
+	<set> TR</set>
+	<set>TwT,TaTa</set>
+	<set> NTAA</set>
+	<set>Tribble</set>
+	<set>Tribble,TaTa</set>
+	<set> MTMT</set>
+	<set>TwT,VTP</set>
+	<set>Tribble,VTP</set>
+	<set>NBT</set>
+	<set>TaTa</set>
+	<set>VTP</set>
+	<set>BTLQ</set>
+	<set>Tribble,NBT</set>
+</format>
+</formatdefinitions>

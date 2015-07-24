@@ -71,7 +71,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100 Tribbles - Scan	NBT	62V	62V	Scan	100	Look at the top 3 cards of your draw deck. You may place those cards on the top or nottom of your draw deck in any order.
 100 Tribbles - Utilize	NBT	63V	63V	Utilize	100	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of Tribbles on that card.
 1,000 Tribbles - Masaka	NBT	64V	64V	Masaka	1000	All players place their hand beneath their draw deck and then draw a new hand of three cards.
-1,000 Tribbles - Reverse	Tribble, NBT	65V	65V	Reverse	1000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+1,000 Tribbles - Reverse	Tribble,NBT	65V	65V	Reverse	1000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
 1,000 Tribbles - Scan	NBT	66V	66V	Scan	1000	Look at the top 3 cards of your draw deck. You may place those cards on the top or nottom of your draw deck in any order.
 10,000 Tribbles - Assimilate	NBT	67V	67V	Assimilate	10000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that Tribble at the end of the round or if it leaves the tribble pile.)
 10,000 Tribbles - Masaka	NBT	68V	68V	Masaka	10000	All players place their hand beneath their draw deck and then draw a new hand of three cards.
