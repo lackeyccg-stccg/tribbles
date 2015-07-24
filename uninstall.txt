@@ -1,0 +1,4 @@
+<uninstall>
+<dateYYMMDD>150724</dateYYMMDD>
+<removepath>sets/tribbles.txt</removepath>
+</uninstall></removepath>

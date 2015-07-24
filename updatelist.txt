@@ -1,5 +1,6 @@
 tribbles	07-23-15
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/defaultchat.txt	22546
+plugins/tribbles/uninstall.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/uninstall.txt	10080
 plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	492935
 plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	31551
 plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/setlist.txt	3828
