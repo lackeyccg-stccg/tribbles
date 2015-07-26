@@ -1,11 +1,11 @@
-tribbles	07-23-15
+tribbles	07-26-15
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/defaultchat.txt	22546
 plugins/tribbles/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/formats.txt	28594
 plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	492935
-plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	31551
+plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	32022
 plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/setlist.txt	3828
 plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master//saved/start.txt	49066
-plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/tribbles.txt	1602807
+plugins/tribbles/sets/tribbles.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/tribbles.txt	1611758
 plugins/tribbles/sets/trouble.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/trouble.txt	296735
 plugins/tribbles/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/cardback.jpg	179863
 plugins/tribbles/sets/setimages/general/CardMissing.jpg	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/sets/setimages/general/CardMissing.jpg	177461

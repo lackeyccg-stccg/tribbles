@@ -41,7 +41,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100,000 Tribbles - Mutate	NTAA	34V	34V	Mutate	100000	Count the number of cards in your play pile. Shuffle your play pile into your draw deck, then put that many cards from the top of your draw deck in your play pile.
 100,000 Tribbles - Safety	NTAA	35V	35V	Safety	100000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
 100,000 Tribbles - Tally	NTAA	36V	36V	Tally	100000	If another player is about to score points from that tribble, he or she scores half that value instead, and you score an equal number instead. 
-100 Tribbles - Reverse	Tribble	100TribbleReverse	P	Reverse	100	Reverse the direction of play from clockwise to counter- clockwise, or vice versa.
+100 Tribbles - Reverse	Tribble,VTP	10VTP	10VTP	Reverse	100	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
 100 Tribbles - Bonus	TwT,TaTa	44V	44V	Bonus	100	At the end of each round, if you avoided getting “decked” and your play pile includes a run of all four BONUS cards (1 – 10 – 100 – 1,000), you score 100,000 points.
 100 Tribbles - Poison	Tribble,TaTa	45V	45V	Poison	100	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
 100 Tribbles - Rescue	Tribble,TaTa	46V	46V	Rescue	100	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
@@ -51,7 +51,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 10,000 Tribbles - Clone	Tribble,VTP	1VTP	1VTP	Clone	10000	This tribble may be played even when it has the same number of tribbles as the last card played.
 10,000 Tribbles - Poison	TwT,VTP	6VTP	6VTP	Poison	10000	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
 10,000 Tribbles - Rescue	TwT,VTP	2VTP	2VTP	Rescue	10000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
-100,000 Tribbles - Clone	TwT	100000tribblesclone	135R	Clone	100000	This tribble may be played even when it has the same number of tribbles as the last card played.
+100,000 Tribbles - Clone	TwT,VTP	8VTP	8VTP	Clone	100000	This tribble may be played even when it has the same number of tribbles as the last card played.
 100,000 Tribbles - Discard	TwT,VTP	3VTP	3VTP	Discard	100000	Choose one card in your hand to place in your discard pile.
 100,000 Tribbles - Rescue	TwT,VTP	7VTP	7VTP	Rescue	100000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
 1 Tribble - Bonus & Freeze	TaTa	37V	37V	Bonus & Freeze	1	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
@@ -64,7 +64,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 1 Tribble - Convert	NBT	55V	55V	Convert	1	Place this tribble beneath your draw deck, then place the top card of your draw deck on top of your play pile.
 1 Tribble - IDIC	NBT	56V	56V	IDIC	1	If you go out, score 10,000 points for each different tribble power in your play pile (not cumulative with other 1 IDIC tribbles in your play pile).
 1 Tribble - Skip	Tribble,NBT	57V	57V	Skip	1	Skip the next player.
-10 Tribbles - Advance	NBT	58V	58V	Advance	10	You may play this tribble in place of a 1 tribble if the sequence was "broken".
+10 Tribbles - Advance	NBT	58V	58V	Advance	10	You may play this tribble in place of 1 tribble if the sequence was "broken".
 10 Tribbles - Recycle & Freeze	NBT	59V	59V	Recycle & Freeze	10	Choose a player to shuffle his or her discard pile into his or her draw deck, then name a tribble power. Until the end of your next turn this round, players can not play tribbles with that power (regardless if that power is used or not).
 10 Tribbles - Skip	Tribble,NBT	60V	60V	Skip	10	Skip the next player.
 10 Tribbles - Utilize	NBT	61V	61V	Utilize	10	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of Tribbles on that card.
@@ -108,3 +108,4 @@ Name	Set	ImageFile	Info	Type	Count	Text
 10,000 Tribbles - Reset	TR	97V	97V	Reset	10000	Shuffle the trouble pile.
 100,000 Tribbles - Dabo	TR	98V	98V	Dabo	100000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
 100,000 Tribbles - Fizzbin	TR	99V	99V	Fizzbin	100000	This tribble can not leave your play pile unless you go out.
+10,000 Tribbles - Advance	VTP	18VTP	18VTP	Advance	10000	You may play this tribble in place of 1 tribble if the sequence was "broken".
