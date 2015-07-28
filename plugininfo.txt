@@ -128,6 +128,10 @@
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
 <cardfunction>
+	<label>Turn for Ante</label>
+	<kind>TURNOVER</kind>
+</cardfunction>
+<cardfunction>
 	<label>White Token</label>
 	<kind>ADDCOUNTER</kind>
 	<color>white</color>
