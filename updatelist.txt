@@ -1,7 +1,7 @@
 tribbles	09-30-16
 plugins/tribbles/defaultchat.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/defaultchat.txt	22546
 plugins/tribbles/formats.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/formats.txt	28594
-plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	500107
+plugins/tribbles/plugininfo.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/plugininfo.txt	533096
 plugins/tribbles/version.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt	30957
 plugins/tribbles/setlist.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/setlist.txt	3828
 plugins/tribbles/saved/start.txt	https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master//saved/start.txt	53035

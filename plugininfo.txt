@@ -127,6 +127,16 @@
 	<destinationposition>faceup</destinationposition>
 	<includeasbutton>yes</includeasbutton>
 </generalfunction>
+<generalfunction>
+	<label>Show Bottom Card</label>
+	<sourceowner>performer</sourceowner>
+	<kind>TRANSFERCARD</kind>
+	<sourcegamezone>Deck</sourcegamezone>
+	<sourceposition>bottom</sourceposition>
+	<destinationowner>table</destinationowner>
+	<destinationposition>faceup</destinationposition>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
 <cardfunction>
 	<label>Turn for Ante</label>
 	<kind>TURNOVER</kind>
