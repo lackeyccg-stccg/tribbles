@@ -221,7 +221,7 @@
 </definition>
 <definition>
 	<kind>GRIDSIZE</kind>
-	<value>0.25</value>
+	<value>0.1</value>
 </definition>
 <definition>
 	<kind>NUMDIGITSINSTAT</kind>

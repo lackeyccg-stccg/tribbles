@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>150726</lastupdateYYMMDD>
+<lastupdateYYMMDD>160930</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/updatelist.txt</updateurl>
-<message>Added forgotten 1000 Advance and changed 2 images</message>
+<message>50th anniversary release (+ a swarm)</message>
 </version>

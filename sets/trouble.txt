@@ -17,3 +17,5 @@ Name	Set	ImageFile	Info	Type	Count	Text
 ... In the Security Office	TR_T	115V	115V	Trouble		Shift: Miss 1 OR Freeze OR Draw 3 When a player plays a Freeze tribble, he or she may name an additional tribble power to be affected.
 ... In Sickbay	TR_T	116V	116V	Trouble		Shift: Miss 10 OR Mutate OR Lose 100,000 Players may not activate Poison tribbles. (Players may play Poison tribbles but not use their powers.)
 ... In the Transporter Room	TR_T	117V	117V	Trouble		Shift: Miss 100 OR Scan OR Draw 3 Players may not activate Rescue tribbles. (Players may play Rescue tribbles but not use their powers.)
+... At Club Martus	50th	134V	134V	Trouble		Shift: Miss 10 OR Recycle OR Draw 2 All players flip their draw decks. (The bottom card is now the top card.)
+... At Vic's Lounge	50th	135V	135V	Trouble		Shift: Miss 1,000 OR Battle OR Draw 2 When a tribble is played and its power is not activated, that player scores 10,000 points.

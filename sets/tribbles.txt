@@ -107,5 +107,22 @@ Name	Set	ImageFile	Info	Type	Count	Text
 1,000 Tribbles - Time Warp	TR	96V	96V	Time Warp	1000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100,000 Time Warp tribbles in your play pile.)
 10,000 Tribbles - Reset	TR	97V	97V	Reset	10000	Shuffle the trouble pile.
 100,000 Tribbles - Dabo	TR	98V	98V	Dabo	100000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
-100,000 Tribbles - Fizzbin	TR	99V	99V	Fizzbin	100000	This tribble can not leave your play pile unless you go out.
+100,000 Tribbles - Fizzbin	TR	99V_Errata	99V	Fizzbin	100000	This tribble can not leave your play pile unless you go out (limit 5).
 10,000 Tribbles - Advance	VTP	18VTP	18VTP	Advance	10000	You may play this tribble in place of 1 tribble if the sequence was "broken".
+10,000 Tribbles - Swarm	VTP	29VTP	29VTP	Swarm	10000	Draw a card. Score 10,000 points for every other Swarm tribble in your play pile.
+1 Tribble - Evade	50th	118V	118V	Evade	1	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
+1 Tribble - Retreat	50th	119V	119V	Retreat	1	All players draw a card. If revealed in a battle you did not begin, score 50,000 points.
+10 Tribbles - Confront	50th	120V	120V	Confront	10	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
+10 Tribbles - Convert	50th	121V	121V	Convert	10	Place this tribble beneath your draw deck, then place the top card of your draw deck on your play pile.
+100 Tribbles - Cycle	50th	122V	122V	Cycle	100	Place a tribble in hand beneath your draw deck to draw a card.
+100 Tribbles - Evade	50th	123V	123V	Evade	100	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
+100 Tribbles - Party	50th	124V	124V	Party	100	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
+100 Tribbles - Time Warp	50th	125V	125V	Time Warp	100	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 10,000 Time Warp tribbles in your play pile).
+1,000 Tribbles - Cheat	50th	126V	126V	Cheat	1000	You may skip a number in the sequence to play this card.
+1,000 Tribbles - Darbo	50th	127V	127V	Darbo	1000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
+10,000 Tribbles - Acquire	50th	128V	128V	Acquire	10000	Name a tribble power. If the next tribble played is that power, score points equal to the number of tribbles on that card.
+10,000 Tribbles - Exchange	50th	129V	129V	Exchange	10000	Discard a tribble from hand to take a tribble into hand from your discard pile.
+10,000 Tribbles - Replicate	50th	130V	130V	Replicate	10000	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
+100,000 Tribbles - Ante	50th	131V	131V	Ante	100000	All players place a card from hand into the pot. The next player that plays a Qapla' tribble scores points equal to the highest tribble in the pot, then the cards in the pot are placed into their owner's discard piles.
+100,000 Tribbles - Confront	50th	132V	132V	Confront	100000	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
+100,000 Tribbles - Fold	50th	133V	133V	Fold	100000	While this tribble is on top of your play pile, no other player may choose you as the target for a tribble power.
