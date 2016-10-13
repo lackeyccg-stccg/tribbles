@@ -1,6 +1,6 @@
 <version>
-<lastupdateYYMMDD>160930</lastupdateYYMMDD>
+<lastupdateYYMMDD>161013</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/lackeyccg-stccg/tribbles/master/updatelist.txt</updateurl>
-<message>50th anniversary release (+ a swarm)</message>
+<message>corrected a spelling error</message>
 </version>
