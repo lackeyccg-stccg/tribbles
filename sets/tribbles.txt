@@ -1,115 +1,156 @@
 Name	Set	ImageFile	Info	Type	Count	Text
-1 Tribble - Bonus	TwT	1tribblebonus	120C	Bonus	1	At the end of each round, if you avoided getting “decked” and your play pile includes a run of all four BONUS cards (1 – 10 – 100 – 1,000), you score an extra 100,000 points 
-1 Tribble - Discard	Tribble,TaTa 	38V	38V	Discard	1	Choose one card in your hand to place in your discard pile.
-1 Tribble - Go	Tribble,TaTa	39V	39V	Go	1	Take another turn (that is, play the next tribble number in sequence).
-1 Tribble - Cycle	MTMT	1V	1V	Cycle	1	Place a tribble in hand benath your draw deck to draw a card.
-1 Tribble - Exchange	MTMT	2V	2V	Exchange	1	Discard a tribble in hand to take a tribble into hand from your discard pile
-1 Tribble - Replay	MTMT	3V	3V	Replay	1	Search your play pile for a tribble and play it again.
-10 Tribbles - Copy	MTMT	4V	4V	Copy	10	You may immediately use the game text of the top tribble of any other play pile.
-10 Tribbles - Cycle	MTMT	5V	5V	Cycle	10	Place a tribble in hand benath your draw deck to draw a card.
-10 Tribbles - Draw	MTMT	6V	6V	Draw	10	Choose a player. He or she must draw a card.
-100 Tribbles - Copy	MTMT	7V	7V	Copy	100	You may immediately use the game text of the top tribble of any other play pile.
-100 Tribbles - Draw	MTMT	8V	8V	Draw	100	Choose a player. He or she must draw a card.
-100 Tribbles - Score	MTMT	9V	9V	Score	100	Choose a player. If that player plays a tribble on his or her next turn, you score points equal to the number of tribbles on that card.
-10 Tribbles - Bonus	TwT,TaTa	41V	41V	Bonus	10	At the end of each round, if you avoided getting “decked” and your play pile includes a run of all four BONUS cards (1 – 10 – 100 – 1,000), you score 100,000 points.
-10 Tribbles - Go	Tribble,TaTa	42V	42V	Go	10	Take another turn (that is, play the next tribble number in sequence).
-10 Tribbles - Poison	Tribble,TaTa	43V	43V	Poison	10	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
-1,000 Tribbles - Exchange	MTMT	10V	10V	Exchange	1000	Discard a tribble in hand to take a tribble into hand from your discard pile
-1,000 Tribbles - Recycle	MTMT	11V	11V	Recycle	1000	Choose a player to shuffle his or her discard pile into his or her draw deck.
-1,000 Tribbles - Score	MTMT	12V	12V	Score	1000	Choose a player. If that player plays a tribble on his or her next turn, you score points equal to the number of tribbles on that card.
-10,000 Tribbles - Antidote	MTMT	13V	13V	Antidote	10000	If this tribble is poisoned, ist owner scores points instead and may place his or her hand beneath his or her draw deck.
-10,000 Tribbles - Kill	MTMT	14V	14V	Kill	10000	Choose a player to discard the top tribble of his or her play pile.
-10,000 Tribbles - Recycle	MTMT	15V	15V	Recycle	10000	Choose a player to shuffle his or her discard pile into his or her draw deck.
-100,000 Tribbles - Antidote	MTMT	16V	16V	Antidote	100000	If this tribble is poisoned, ist owner scores points instead and may place his or her hand beneath his or her draw deck.
-100,000 Tribbles - Kill	MTMT	17V	17V	Kill	100000	Choose a player to discard the top tribble of his or her play pile.
-100,000 Tribbles - Replay	MTMT	18V	18V	Replay	100000	Search your play pile for a tribble and play it again.
-1 Tribble - Clone & Reverse	NTAA	19V	19V	Clone & Reverse	1	Reverse the direction of play from clockwise to counterclockwise (or vice versa). The tribble may be pay even when it has the same number of tribbles as the last card played.
-1 Tribble - Evolve	NTAA	20V	20V	Evolve	1	Count the number of cards in your hand, place your hand in the discard pile, and draw that many cards.
+1 Tribble - Bonus	TwT	1tribblebonus	120C	Bonus	1	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+1 Tribble - Clone & Reverse	NTAA	19V	19V	Clone;Reverse	1	Reverse the direction of play from clockwise to counterclockwise (or vice versa). This tribble may be played even when it has the same number of tribbles as the last card played.
+1 Tribble - Cycle	MTMT	1V	1V	Cycle	1	Place a tribble in hand beneath your draw deck to draw a card.
+1 Tribble - Discard	TwT	1tribblediscard	121C	Discard	1	Choose one card in your hand to place in your discard pile.
+1 Tribble - Evolve	NTAA	20V	20V	Evolve	1	Count the number of cards in your hand, place your hand in your discard pile, and draw that many cards.
+1 Tribble - Exchange	MTMT	2V	2V	Exchange	1	Discard a tribble from hand to take a tribble into hand from your discard pile.
+1 Tribble - Go	TwT	1tribblego	122C	Go	1	Take another turn (that is, play the next tribble number in sequence).
 1 Tribble - Process	NTAA	21V	21V	Process	1	Draw three cards, then choose two cards from hand to place beneath your draw deck.
-10 Tribbles - Battle	NTAA	22V	22V	Battle	10	Choose another player to reveal the top three cards of his or her draw deck. You revela the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
-10 Tribbles - Evolve	NTAA	23V	23V	Evolve	10	Count the number of cards in your hand, place your hand in the discard pile, and draw that many cards.
-10 Tribbles - Toxin	NTAA	24V	24V	Toxin	10	Each player reveales the top card of his or her draw deck for each Discard tribble in his or her play pile. Choose one revealed card and score points equal to the number of tribbles on that card. Each player who revealed cards places those cards in his or her hand.
-100 Tribbles - Battle	NTAA	25V	25V	Battle	100	Choose another player to reveal the top three cards of his or her draw deck. You revela the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
-100 Tribbles - Clone & Skip	NTAA	26V	26V	Clone & Skip	100	Skip the next player. This tribble may be played even when it has the same number of tribbles as the last card played.
-100 Tribbles - Recycle & Reverse	NTAA	27V	27V	Recycle & Reverse	100	Choose a player to shuffle his or her discard pile into his or her draw deck, then reverse the direction of play from clockwise to counterclockwise or vice versa).
+1 Tribble - Replay	MTMT	3V	3V	Replay	1	Search your play pile for a tribble and play it again.
+1 Tribble - Skip	Tribble	1-Tribble-Skip	0Bl	Skip	1	Skip the next player.
+1,000 Tribbles - Bonus	TwT	1000tribblesbonus	129R*	Bonus	1000	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+1,000 Tribbles - Discard	TwT	1000tribblesdiscard	130R*	Discard	1000	Choose one card in your hand to place in your discard pile.
+1,000 Tribbles - Exchange	MTMT	10V	10V	Exchange	1000	Discard a tribble from hand to take a tribble into hand from your discard pile.
 1,000 Tribbles - Freeze	NTAA	28V	28V	Freeze	1000	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
 1,000 Tribbles - Process	NTAA	29V	29V	Process	1000	Draw three cards, then choose two cards from hand to place beneath your draw deck.
+1,000 Tribbles - Recycle	MTMT	11V	11V	Recycle	1000	Choose a player to shuffle his or her discard pile into his or her draw deck.
+1,000 Tribbles - Rescue	TwT	1000tribblesrescue	131R*	Rescue	1000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
 1,000 Tribbles - Safety	NTAA	30V	30V	Safety	1000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
-10,000 Tribbles - Go	NTAA	31V	31V	Go	10000	Take another turn (that is, play the next tribble number in sequence).
-10,000 Tribbles - Quadruple	NTAA	32V	32V	Quadruple	10000	If you win the round with this tribble in your play pile, this tribble is worth 40,000 instead of 10,000. (This tribble can not be copied.)
-10,000 Tribbles - Toxin	NTAA	33V	33V	Toxin	10000	Each player reveales the top card of his or her draw deck for each Discard tribble in his or her play pile. Choose one revealed card and score points equal to the number of tribbles on that card. Each player who revealed cards places those cards in his or her hand.
+1,000 Tribbles - Score	MTMT	12V	12V	Score	1000	Choose a player. If that player plays a tribble on his or her next turn, you score points equal to the number of tribbles on that card.
+1,000 Tribbles - Reverse	Tribble	1000-Tribble-Reverse	0Bl	Reverse	1000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+10 Tribbles - Battle	NTAA	22V	22V	Battle	10	Choose another player to reveal the top three cards of his or her draw deck. You reveal the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
+10 Tribbles - Bonus	TwT	10tribblesbonus	123U	Bonus	10	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+10 Tribbles - Copy	MTMT	4V	4V	Copy	10	You may immediately use the game text of the top tribble of any other play pile.
+10 Tribbles - Cycle	MTMT	5V	5V	Cycle	10	Place a tribble in hand beneath your draw deck to draw a card.
+10 Tribbles - Draw	MTMT	6V	6V	Draw	10	Choose a player. He or she must draw a card.
+10 Tribbles - Evolve	NTAA	23V	23V	Evolve	10	Count the number of cards in your hand, place your hand in your discard pile, and draw that many cards.
+10 Tribbles - Go	TwT	10tribblesgo	124U	Go	10	Take another turn (that is, play the next tribble number in sequence).
+10 Tribbles - Poison	TwT	10tribblespoison	125U	Poison	10	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+10 Tribbles - Skip	Tribble	10-Tribble-Skip	0Bl	Skip	10	Skip the next player.
+10 Tribbles - Toxin	NTAA	24V	24V	Toxin	10	Each other player reveals the top card of his or her draw deck for each Discard tribble in his or her play pile. Choose one revealed card and score points equal to the number of tribbles on that card. Each player who revealed cards places those cards in his or her hand.
+10,000 Tribbles - Antidote	MTMT	13V	13V	Antidote	10000	If this tribble is poisoned, its owner scores points instead and may place his or her hand beneath his or her draw deck.
+10,000 Tribbles - Clone *VP	VP	1VTP	1VT	Clone	10000	This tribble may be played even when it has the same number of tribbles as the last card played.
+10,000 Tribbles - Clone	Tribble	10000-Tribble-Clone	0Bl	Clone	10000	This tribble may be played even when it has the same number of tribbles as the last card played.
+10,000 Tribbles - Go *V	NTAA	31V	31V	Go	10000	Take another turn (that is, play the next tribble number in sequence).
+10,000 Tribbles - Go	TwT	10000tribblesgo	132R+	Go	10000	Take another turn (that is, play the next tribble number in sequence).
+10,000 Tribbles - Kill	MTMT	14V	14V	Kill	10000	Choose a player to discard the top tribble of his or her play pile.
+10,000 Tribbles - Poison	TwT	10000tribblespoison	133R+	Poison	10000	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+10,000 Tribbles - Quadruple	NTAA	32V	32V	Quadruple	10000	If you win the round with this tribble in your play pile, this tribble is worth 40,000 instead of 10,000. (This tribble cannot be copied.)
+10,000 Tribbles - Recycle	MTMT	15V	15V	Recycle	10000	Choose a player to shuffle his or her discard pile into his or her draw deck.
+10,000 Tribbles - Rescue	TwT	10000tribblesrescue	134R+	Rescue	10000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+10,000 Tribbles - Reverse	Tribble	10000-Tribble-Reverse	0Bl	Reverse	10000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+10,000 Tribbles - Skip	Tribble	10000-Tribble-Skip	0Bl	Skip	10000	Skip the next player.
+10,000 Tribbles - Toxin	NTAA	33V	33V	Toxin	10000	Each other player reveals the top card of his or her draw deck for each Discard tribble in his or her play pile. Choose one revealed card and score points equal to the number of tribbles on that card. Each player who revealed cards places those cards in his or her hand.
+100 Tribbles - Battle	NTAA	25V	25V	Battle	100	Choose another player to reveal the top three cards of his or her draw deck. You reveal the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
+100 Tribbles - Bonus	TwT	100tribblesbonus	126U	Bonus	100	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+100 Tribbles - Clone & Skip	NTAA	26V	26V	Clone;Skip	100	Skip the next player. This tribble may be played even when it has the same number of tribbles as the last card played.
+100 Tribbles - Copy	MTMT	7V	7V	Copy	100	You may immediately use the game text of the top tribble of any other play pile.
+100 Tribbles - Draw	MTMT	8V	8V	Draw	100	Choose a player. He or she must draw a card.
+100 Tribbles - Poison	TwT	100tribblespoison	127U	Poison	100	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+100 Tribbles - Recycle & Reverse	NTAA	27V	27V	Recycle;Reverse	100	Choose a player to shuffle his or her discard pile into his or her draw deck, then reverse the direction of play from clockwise to counterclockwise (or vice versa).
+100 Tribbles - Rescue	TwT	100tribblesrescue	128U	Rescue	100	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+100 Tribbles - Reverse	Tribble	100-Tribble-Reverse	0Bl	Reverse	100	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+100 Tribbles - Score	MTMT	9V	9V	Score	100	Choose a player. If that player plays a tribble on his or her next turn, you score points equal to the number of tribbles on that card.
+100,000 Tribbles - Antidote	MTMT	16V	16V	Antidote	100000	If this tribble is poisoned, its owner scores points instead and may place his or her hand beneath his or her draw deck.
+100,000 Tribbles - Clone	TwT	100000tribblesclone	135R+	Clone	100000	This tribble may be played even when it has the same number of tribbles as the last card played.
+100,000 Tribbles - Discard	TwT	100000tribblesdiscard	136R+	Discard	100000	Choose one card in your hand to place in your discard pile.
+100,000 Tribbles - Kill	MTMT	17V	17V	Kill	100000	Choose a player to discard the top tribble of his or her play pile.
 100,000 Tribbles - Mutate	NTAA	34V	34V	Mutate	100000	Count the number of cards in your play pile. Shuffle your play pile into your draw deck, then put that many cards from the top of your draw deck in your play pile.
+100,000 Tribbles - Replay	MTMT	18V	18V	Replay	100000	Search your play pile for a tribble and play it again.
+100,000 Tribbles - Rescue	TwT	100000tribblesrescue	137R+	Rescue	100000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
 100,000 Tribbles - Safety	NTAA	35V	35V	Safety	100000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
-100,000 Tribbles - Tally	NTAA	36V	36V	Tally	100000	If another player is about to score points from that tribble, he or she scores half that value instead, and you score an equal number instead. 
-100 Tribbles - Reverse	Tribble,VTP	10VTP	10VTP	Reverse	100	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
-100 Tribbles - Bonus	TwT,TaTa	44V	44V	Bonus	100	At the end of each round, if you avoided getting “decked” and your play pile includes a run of all four BONUS cards (1 – 10 – 100 – 1,000), you score 100,000 points.
-100 Tribbles - Poison	Tribble,TaTa	45V	45V	Poison	100	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
-100 Tribbles - Rescue	Tribble,TaTa	46V	46V	Rescue	100	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
-1,000 Tribbles - Bonus	TwT,TaTa	48V	48V	Bonus	1000	At the end of each round, if you avoided getting “decked” and your play pile includes a run of all four BONUS cards (1 – 10 – 100 – 1,000), you score 100,000 points.
-1,000 Tribbles - Discard	Tribble,TaTa	49V	49V	Discard	1000	Choose one card in your hand to place in your discard pile.
-1,000 Tribbles - Rescue	Tribble,TaTa	51V	51V	Rescue	1000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
-10,000 Tribbles - Clone	Tribble,VTP	1VTP	1VTP	Clone	10000	This tribble may be played even when it has the same number of tribbles as the last card played.
-10,000 Tribbles - Poison	TwT,VTP	6VTP	6VTP	Poison	10000	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
-10,000 Tribbles - Rescue	TwT,VTP	2VTP	2VTP	Rescue	10000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
-100,000 Tribbles - Clone	TwT,VTP	8VTP	8VTP	Clone	100000	This tribble may be played even when it has the same number of tribbles as the last card played.
-100,000 Tribbles - Discard	TwT,VTP	3VTP	3VTP	Discard	100000	Choose one card in your hand to place in your discard pile.
-100,000 Tribbles - Rescue	TwT,VTP	7VTP	7VTP	Rescue	100000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck – or, if it has the proper number of tribbles, you may play it now.
-1 Tribble - Bonus & Freeze	TaTa	37V	37V	Bonus & Freeze	1	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
-10 Tribbles - Avalanche	TaTa	40V	40V	Avalanche	10	If you have at least four other cards in hand, all players discard a card. You may then discard one extra.
-100 Tribbles - Stampede	TaTa	47V	47V	Stampede	100	All players may immediately play the next tribble in sequence. Only the tribble you play may activate ist power.
+100,000 Tribbles - Tally	NTAA	36V	36V	Tally	100000	If another player is about to score points from this tribble, he or she scores half this tribble's value instead, and you score an equal number of points.
+1 Tribble - Bonus & Freeze	TaTa	37V	37V	Bonus;Freeze	1	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not). At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+1 Tribble - Discard *V	TaTa	38V	38V	Discard	1	Choose one card in your hand to place in your discard pile.
+1 Tribble - Go *V	TaTa	39V	39V	Go	1	Take another turn (that is, play the next tribble number in sequence).
+10 Tribbles - Avalanche	TaTa	40V	40V	Avalanche	10	If you have least four other cards in hand, all players discard a card. You may then discard one extra.
+10 Tribbles - Bonus *V	TaTa	41V	41V	Bonus	10	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+10 Tribbles - Go *V	TaTa	42V	42V	Go	10	Take another turn (that is, play the next tribble number in sequence).
+10 Tribbles - Poison *V	TaTa	43V	43V	Poison	10	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+100 Tribbles - Bonus *V	TaTa	44V	44V	Bonus	100	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+100 Tribbles - Poison *V	TaTa	45V	45V	Poison	100	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+100 Tribbles - Rescue *V	TaTa	46V	46V	Rescue	100	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+100 Tribbles - Stampede	TaTa	47V	47V	Stampede	100	All players may immediately play the next tribble in sequence. only the tribble you play may activate its power.
+1,000 Tribbles - Bonus *V	TaTa	48V	48V	Bonus	1000	At the end of the round, if you avoided getting "decked" and your play pile includes a run of all four BONUS cards (1-10-100-1,000), you score 100,000 points.
+1,000 Tribbles - Discard *V	TaTa	49V	49V	Discard	1000	Choose one card in your hand to place in your discard pile.
 1,000 Tribbles - Famine	TaTa	50V	50V	Famine	1000	The next tribble in sequence is 1.
+1,000 Tribbles - Rescue *V	TaTa	51V	51V	Rescue	1000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
 10,000 Tribbles - Safety	TaTa	52V	52V	Safety	10000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
-10,000 Tribbles - Time Warp	TaTa	53V	53V	Time Warp	10000	If this tribble is in your play pile at the end of this round and you did not go out, start with one less card in your hand in the next round (not cumulative with other 10,000 Time Warp tribbles in your play pile).
+10,000 Tribbles - Time Warp	TaTa	53V	53V	Time Warp	10000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 10000 Time Warp tribbles in your play pile).
 100,000 Tribbles - Freeze	TaTa	54V	54V	Freeze	100000	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
-1 Tribble - Convert	NBT	55V	55V	Convert	1	Place this tribble beneath your draw deck, then place the top card of your draw deck on top of your play pile.
-1 Tribble - IDIC	NBT	56V	56V	IDIC	1	If you go out, score 10,000 points for each different tribble power in your play pile (not cumulative with other 1 IDIC tribbles in your play pile).
-1 Tribble - Skip	Tribble,NBT	57V	57V	Skip	1	Skip the next player.
-10 Tribbles - Advance	NBT	58V	58V	Advance	10	You may play this tribble in place of 1 tribble if the sequence was "broken".
-10 Tribbles - Recycle & Freeze	NBT	59V	59V	Recycle & Freeze	10	Choose a player to shuffle his or her discard pile into his or her draw deck, then name a tribble power. Until the end of your next turn this round, players can not play tribbles with that power (regardless if that power is used or not).
-10 Tribbles - Skip	Tribble,NBT	60V	60V	Skip	10	Skip the next player.
-10 Tribbles - Utilize	NBT	61V	61V	Utilize	10	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of Tribbles on that card.
-100 Tribbles - Scan	NBT	62V	62V	Scan	100	Look at the top 3 cards of your draw deck. You may place those cards on the top or nottom of your draw deck in any order.
-100 Tribbles - Utilize	NBT	63V	63V	Utilize	100	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of Tribbles on that card.
+10,000 Tribbles - Rescue *VP	VP	2VTP	2VT	Rescue	10000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+100,000 Tribbles - Discard *VP	VP	3VTP	3VT	Discard	100000	Choose one card in your hand to place in your discard pile.
+100 Tribbles - Battle *VP	VP	4VTP	4VT	Battle	100	Choose another player to reveal the top three cards of his or her draw deck. You reveal the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
+10,000 Tribbles - Poison *VP	VP	6VTP	6VT	Poison	10000	Choose any opponent who still has card(s) in their draw deck. That opponent must discard the top card, and you immediately score points equal to the number of tribbles on that card.
+1 Tribble - Convert	NBT	55V	55V	Convert	1	Place this tribble beneath your draw deck, then place the top card of your draw deck on your play pile.
+1 Tribble - IDIC	NBT	56V	56V	IDIC	1	If you go out, score 10,000 points for each different tribble power in your play pile ( not cumulative with other 1 IDIC tribbles in your play pile ).
+1 Tribble - Skip *V	NBT	57V	57V	Skip	1	Skip the next player.
+10 Tribbles - Advance	NBT	58V	58V	Advance	10	You may play this tribble in place of 1 tribble if the sequence was "broken."
+10 Tribbles - Recycle & Freeze	NBT	59V	59V	Recycle;Freeze	10	Choose a player to shuffle his or her discard into his or her draw deck, then name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
+10 Tribbles - Skip *V	NBT	60V	60V	Skip	10	Skip the next player.
+10 Tribbles - Utilize	NBT	61V	61V	Utilize	10	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of tribbles on that card.
+100 Tribbles - Scan	NBT	62V	62V	Scan	100	Look at the top 3 cards of your draw deck. You may place those cards on top or bottom of your draw deck in any order.
+100 Tribbles - Utilize	NBT	63V	63V	Utilize	100	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of tribbles on that card.
 1,000 Tribbles - Masaka	NBT	64V	64V	Masaka	1000	All players place their hand beneath their draw deck and then draw a new hand of three cards.
-1,000 Tribbles - Reverse	Tribble,NBT	65V	65V	Reverse	1000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
-1,000 Tribbles - Scan	NBT	66V	66V	Scan	1000	Look at the top 3 cards of your draw deck. You may place those cards on the top or nottom of your draw deck in any order.
-10,000 Tribbles - Assimilate	NBT	67V	67V	Assimilate	10000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that Tribble at the end of the round or if it leaves the tribble pile.)
+1,000 Tribbles - Reverse *V	NBT	65V	65V	Reverse	1000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+1,000 Tribbles - Scan	NBT	66V	66V	Scan	1000	Look at the top 3 cards of your draw deck. You may place those cards on top or bottom of your draw deck in any order.
+10,000 Tribbles - Assimilate	NBT	67V	67V	Assimilate	10000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that tribble at the end of the round or if it leaves your tribble pile.)
 10,000 Tribbles - Masaka	NBT	68V	68V	Masaka	10000	All players place their hand beneath their draw deck and then draw a new hand of three cards.
-10,000 Tribbles - Reverse	Tribble,NBT	69V	69V	Reverse	10000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
-10,000 Tribbles - Skip	Tribble,NBT	70V	70V	Skip	10000	Skip the next player.
-100,000 Tribbles - Assimilate	NBT	71V	71V	Assimilate	100000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that Tribble at the end of the round or if it leaves the tribble pile.)
-100,000 Tribbles - Time Warp	NBT	72V	72V	Time Warp	100000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100,000 Time Warp tribbles in your play pile.)
-100 Tribbles - Battle	VTP	4VTP	4VTP	Battle	100	Choose another player to reveal the top three cards of his or her draw deck. You revela the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
-10,000 Tribbles - Kill	VTP	9VTP	9VTP	Kill	10000	Choose a player to discard the top tribble of his or her play pile.
+10,000 Tribbles - Reverse *V	NBT	69V	69V	Reverse	10000	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
+10,000 Tribbles - Skip *V	NBT	70V	70V	Skip	10000	Skip the next player.
+100,000 Tribbles - Assimilate	NBT	71V	71V	Assimilate	100000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that tribble at the end of the round or if it leaves your tribble pile.)
+100,000 Tribbles - Time Warp	NBT	72V	72V	Time Warp	100000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100000 Time Warp tribbles in your play pile).
+100,000 Tribbles - Rescue *VP	VP	7VTP	7VT	Rescue	100000	Look through your discard pile and recover a card. Place it face-down on top of your draw deck - or, if it has the proper number of tribbles, you may play it now.
+100,000 Tribbles - Clone *VP	VP	8VTP	8VT	Clone	100000	This tribble may be played even when it has the same number of tribbles as the last card played.
+1 Tribble - Go *VP	VP	5VTP	5VT	Go	1	Take another turn (that is, play the next tribble number in sequence).
+10,000 Tribbles - Kill *VP	VP	9VTP	9VT	Kill	10000	Choose a player to discard the top tribble of his or her play pile.
+100 Tribbles - Reverse *VP	VP	10VTP	10VT	Reverse	100	Reverse the direction of play from clockwise to counterclockwise (or vice versa).
 1 Tribble - BaH!	BTLQ	73V	73V	BaH!	1	If this tribble is in your play pile at the end of the round and you did not go out, you may force all players to be randomly reseated. You may place this tribble beneath your play pile from hand on any turn you have been Skipped.
 1 Tribble - Draw	BTLQ	74V	74V	Draw	1	Choose a player. He or she must draw a card.
 1 Tribble - Party	BTLQ	75V	75V	Party	1	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
 10 Tribbles - Exchange	BTLQ	76V	76V	Exchange	10	Discard a tribble from hand to take a tribble into hand from your discard pile.
 10 Tribbles - Replicate	BTLQ	77V	77V	Replicate	10	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
-10 Tribbles - Sabotage	BTLQ	78V	78V	Sabotage	10	Choose a player to discard the top card of their draw deck. You may activate that tribble's power.
+10 Tribbles - Sabotage	BTLQ	78Va	78V	Sabotage	10	Choose an opponent to discard the top card of their draw deck. You may activate that tribble's power.
 100 Tribbles - Exchange	BTLQ	79V	79V	Exchange	100	Discard a tribble from hand to take a tribble into hand from your discard pile.
 100 Tribbles - Qapla'	BTLQ	80V	80V	Qapla'	100	All players place the top card of their draw deck beneath their play pile. If all those tribbles are the same value or the same power, you score seven times the highest value of those tribbles.
 100 Tribbles - Replicate	BTLQ	81V	81V	Replicate	100	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
 1,000 Tribbles - Cycle	BTLQ	82V	82V	Cycle	1000	Place a tribble in hand beneath your draw deck to draw a card.
 1,000 Tribbles - Qapla'	BTLQ	83V	83V	Qapla'	1000	All players place the top card of their draw deck beneath their play pile. If all those tribbles are the same value or the same power, you score seven times the highest value of those tribbles.
-1,000 Tribbles - Sabotage	BTLQ	84V	84V	Sabotage	1000	Choose a player to discard the top card of their draw deck. You may activate that tribble's power.
+1,000 Tribbles - Sabotage	BTLQ	84Va	84V	Sabotage	1000	Choose an opponent to discard the top card of their draw deck. You may activate that tribble's power.
 10,000 Tribbles - BiJ	BTLQ	85V	85V	BiJ	10000	Choose an opponent and place this tribble beneath his or her play pile. If you go out and you don't own this tribble, the owner of this tribble scores 50,000 points. (Return this tribble at the end of the round or if it leaves your play pile.)
 10,000 Tribbles - Cycle	BTLQ	86V	86V	Cycle	10000	Place a tribble in hand beneath your draw deck to draw a card.
 10,000 Tribbles - Stampede	BTLQ	87V	87V	Stampede	10000	All players may immediately play the next tribble in sequence. only the tribble you play may activate its power.
 100,000 Tribbles - Bah!	BTLQ	88V	88V	Bah!	100000	If this tribble is in your play pile at the end of the round and you did not go out, you may force all players to be randomly reseated. You may place this tribble beneath your play pile from hand on any turn you have been Skipped.
 100,000 Tribbles - Dance	BTLQ	89V	89V	Dance	100000	If you have Skip, Reverse, Skip, Reverse, Skip, Reverse in your play pile (in that order, ignoring other cards), score 100,000 points.
 100,000 Tribbles - Draw	BTLQ	90V	90V	Draw	100000	Choose a player. He or she must draw a card.
-1 Tribble - Fold	TR	91V	91V	Fold	1	While this tribble is on top of your play pile, no player may choose you as a target for a tribble power.
+100,000 Tribbles - Kill *VP	VP	11VTP	11VT	Kill	100000	Choose a player to discard the top tribble of his or her play pile.
+100,000 Tribbles - Replay *VP	VP	12VTP	12VT	Replay	100000	Search your play pile for a tribble and play it again.
+100,000 Tribbles - Antidote *VP	VP	13VTP	13VT	Antidote	100000	If this tribble is poisoned, its owner scores points instead and may place his or her hand beneath his or her draw deck.
+100 Tribbles - Score *VP	VP	14VTP	14VT	Score	100	Choose a player. If that player plays a tribble on his or her next turn, you score points equal to the number of tribbles on that card.
+100,000 Tribbles - Freeze *VP	VP	16VTP	16VT	Freeze	100000	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
+10,000 Tribbles - Recycle *VP	VP	15VTP	15VT	Recycle	10000	Choose a player to shuffle his or her discard pile into his or her draw deck.
+1 Tribble - IDIC *VP	VP	17VTP	17VT	IDIC	1	If you go out, score 10,000 points for each different tribble power in your play pile ( not cumulative with other 1 IDIC tribbles in your play pile ).
+10,000 Tribbles - Advance	VP	18VTP	18VT	Advance	10000	You may play this tribble in place of 1 tribble if the sequence was "broken."
+100 Tribbles - Copy *VP	VP	19VTP	19VT	Copy	100	You may immediately use the game text of the top tribble of any other play pile.
+100,000 Tribbles - Tally *VP	VP	20VTP	20VT	Tally	100000	If another player is about to score points from this tribble, he or she scores half this tribble's value instead, and you score an equal number of points.
+1 Tribble - Fold	TR	91V	91V	Fold	1	While this tribble is on top of your play pile, no other player may choose you as the target for a tribble power.
 10 Tribbles - Ante	TR	92V	92V	Ante	10	All players place a card from hand into the pot. The next player that plays a Qapla' tribble scores points equal to the highest tribble in the pot, then the cards in the pot are placed into their owner's discard piles.
 10 Tribbles - Shift	TR	93V	93V	Shift	10	Shift the current trouble.
 100 Tribbles - Rival	TR	94V	94V	Rival	100	Name a tribble power and remove this card from the game to make each player remove a tribble with that power in his or her discard pile from the game.
 1,000 Tribbles - Roll	TR	95V	95V	Roll	1000	If this tribble is in your play pile at the end of the round and you did not go out, you may mulligan at the start of the next round.
-1,000 Tribbles - Time Warp	TR	96V	96V	Time Warp	1000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100,000 Time Warp tribbles in your play pile.)
+1,000 Tribbles - Time Warp	TR	96V	96V	Time Warp	1000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 1000 Time Warp tribbles in your play pile).
 10,000 Tribbles - Reset	TR	97V	97V	Reset	10000	Shuffle the trouble pile.
 100,000 Tribbles - Dabo	TR	98V	98V	Dabo	100000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
 100,000 Tribbles - Fizzbin	TR	99V_Errata	99V	Fizzbin	100000	This tribble can not leave your play pile unless you go out (limit 5).
-10,000 Tribbles - Advance	VTP	18VTP	18VTP	Advance	10000	You may play this tribble in place of 1 tribble if the sequence was "broken".
-10,000 Tribbles - Swarm	VTP	29VTP	29VTP	Swarm	10000	Draw a card. Score 10,000 points for every other Swarm tribble in your play pile.
+100,000 Tribbles - Draw *VP	VP	21VTP	21VT	Draw	100000	Choose a player. He or she must draw a card.
+100,000 Tribbles - Dabo *VP	VP	22VTP	22VT	Dabo	100000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
+1,000 Tribbles - Freeze *VP	VP	24VTP	24VT	Freeze	1000	Name a tribble power. Until the end of your next turn this round, players cannot play tribbles with that power (whether the power is used or not).
+1,000 Tribbles - Sabotage *VP	VP	25VTP	25VT	Sabotage	1000	Choose an opponent to discard the top card of their draw deck. You may activate that tribble's power.
+1,000 Tribbles - Famine *VP	VP	26VTP	26VT	Famine	1000	The next tribble in sequence is 1.
+100,000 Tribbles - Time Warp *VP	VP	27VTP	27VT	Time Warp	100000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100000 Time Warp tribbles in your play pile).
+10,000 Tribbles - Stampede *VP	VP	28VTP	28VT	Stampede	10000	All players may immediately play the next tribble in sequence. only the tribble you play may activate its power.
+10,000 Tribbles - Swarm	VP	29VTP	29VT	Swarm	10000	Draw a card. Score 10,000 points for every other Swarm tribble in your play pile.
 1 Tribble - Evade	50th	118V	118V	Evade	1	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
 1 Tribble - Retreat	50th	119V	119V	Retreat	1	All players draw a card. If revealed in a battle you did not begin, score 50,000 points.
 10 Tribbles - Confront	50th	120V	120V	Confront	10	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
@@ -117,7 +158,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100 Tribbles - Cycle	50th	122V	122V	Cycle	100	Place a tribble in hand beneath your draw deck to draw a card.
 100 Tribbles - Evade	50th	123V	123V	Evade	100	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
 100 Tribbles - Party	50th	124V	124V	Party	100	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
-100 Tribbles - Time Warp	50th	125V	125V	Time Warp	100	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 10,000 Time Warp tribbles in your play pile).
+100 Tribbles - Time Warp	50th	125V	125V	Time Warp	100	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100 Time Warp tribbles in your play pile).
 1,000 Tribbles - Cheat	50th	126V	126V	Cheat	1000	You may skip a number in the sequence to play this card.
 1,000 Tribbles - Dabo	50th	127V	127V	Dabo	1000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
 10,000 Tribbles - Acquire	50th	128V	128V	Acquire	10000	Name a tribble power. If the next tribble played is that power, score points equal to the number of tribbles on that card.
@@ -126,3 +167,19 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100,000 Tribbles - Ante	50th	131V	131V	Ante	100000	All players place a card from hand into the pot. The next player that plays a Qapla' tribble scores points equal to the highest tribble in the pot, then the cards in the pot are placed into their owner's discard piles.
 100,000 Tribbles - Confront	50th	132V	132V	Confront	100000	Draw a card, then reveal a tribble from hand. If no other player can reveal a tribble with the same power from their hand, you may place your revealed tribble beneath your play pile.
 100,000 Tribbles - Fold	50th	133V	133V	Fold	100000	While this tribble is on top of your play pile, no other player may choose you as the target for a tribble power.
+100 Tribbles - Qapla' *VP	VP	31VTP	31VT	Qapla'	100	All players place the top card of their draw deck beneath their play pile. If all those tribbles are the same value or the same power, you score seven times the highest value of those tribbles.
+1,000 Tribbles - Qapla' *VP	VP	30VTP	30VT	Qapla'	1000	All players place the top card of their draw deck beneath their play pile. If all those tribbles are the same value or the same power, you score seven times the highest value of those tribbles.
+10,000 Tribbles - Skip *VP	VP	32VTP	32VT	Skip	10000	Skip the next player.
+100,000 Tribbles - Safety *VP	VP	33VTP	33VT	Safety	100000	If this tribble is in your play pile at the end of the round, you may shuffle your hand into your draw deck instead of placing your hand in your discard pile.
+1 Tribble - Party *VP	VP	35VTP	35VT	Party	1	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
+10,000 Tribbles - Assimilate *VP	VP	36VTP	36VT	Assimilate	10000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that tribble at the end of the round or if it leaves your tribble pile.)
+10,000 Tribbles - Cycle *VP	VP	23VTP	23VT	Cycle	10000	Place a tribble in hand beneath your draw deck to draw a card.
+10,000 Tribbles - Toxin *VP	VP	34VTP	34VT	Toxin	10000	Each other player reveals the top card of his or her draw deck for each Discard tribble in his or her play pile. Choose one revealed card and score points equal to the number of tribbles on that card. Each player who revealed cards places those cards in his or her hand.
+100,000 Tribbles - Avalanche	VP	37VTP	37VT	Avalanche	100000	If you have least four other cards in hand, all players discard a card. You may then discard one extra.
+1 Tribble - Evade *VP	VP	39VTP	39VT	Evade	1	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
+10 Tribbles - Battle *VP	VP	38VTP	38VT	Battle	10	Choose another player to reveal the top three cards of his or her draw deck. You reveal the top three cards of your draw deck. Each player with the highest total places those cards under his or her play pile; the other player discards his or her cards.
+100 Tribbles - Utilize *VP	VP	40VTP	40VT	Utilize	100	Choose an opponent with at least two cards in hand. That opponent randomly places a card from hand on top of their play pile. Score points equal to the number of tribbles on that card.
+1,000 Tribbles - Cheat *VP	VP	41VTP	41VT	Cheat	1000	You may skip a number in the sequence to play this card.
+10 Tribbles - Replicate *VP	VP	43VTP	43VT	Replicate	10	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
+100 Tribbles - Replicate *VP	VP	44VTP	44VT	Replicate	100	If an opponent's action places this tribble in your discard pile (or play pile) you may place an addition card from hand in your discard pile (or play pile).
+100,000 Tribbles - Assimilate *VP	VP	46VTP	46VT	Assimilate	100000	Choose a player. Take the top card from that player's draw deck and place it on your play pile. (Return that tribble at the end of the round or if it leaves your tribble pile.)
