@@ -104,7 +104,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 10 Tribbles - Shift	TR	93V	93V	Shift	10	Shift the current trouble.
 100 Tribbles - Rival	TR	94V	94V	Rival	100	Name a tribble power and remove this card from the game to make each player remove a tribble with that power in his or her discard pile from the game.
 1,000 Tribbles - Roll	TR	95V	95V	Roll	1000	If this tribble is in your play pile at the end of the round and you did not go out, you may mulligan at the start of the next round.
-1,000 Tribbles - Time Warp	TR	96V	96V	Time Warp	1000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100,000 Time Warp tribbles in your play pile.)
+1,000 Tribbles - Time Warp	TR	96V	96V	Time Warp	1000	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 1,000 Time Warp tribbles in your play pile.)
 10,000 Tribbles - Reset	TR	97V	97V	Reset	10000	Shuffle the trouble pile.
 100,000 Tribbles - Dabo	TR	98V	98V	Dabo	100000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
 100,000 Tribbles - Fizzbin	TR	99V_Errata	99V	Fizzbin	100000	This tribble can not leave your play pile unless you go out (limit 5).
@@ -117,7 +117,7 @@ Name	Set	ImageFile	Info	Type	Count	Text
 100 Tribbles - Cycle	50th	122V	122V	Cycle	100	Place a tribble in hand beneath your draw deck to draw a card.
 100 Tribbles - Evade	50th	123V	123V	Evade	100	While this tribble is on top of your play pile, you may choose not to draw a card if you do not play the next card in sequence. (The chain is still broken.)
 100 Tribbles - Party	50th	124V	124V	Party	100	To activate this tribble power, you must have at least two other cards in hand. All players randomly place a card from hand beneath their play pile.
-100 Tribbles - Time Warp	50th	125V	125V	Time Warp	100	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 10,000 Time Warp tribbles in your play pile).
+100 Tribbles - Time Warp	50th	125V	125V	Time Warp	100	If this tribble is in your play pile at the end of the round and you did not go out, start with one less card in your hand the next round (not cumulative with other 100 Time Warp tribbles in your play pile).
 1,000 Tribbles - Cheat	50th	126V	126V	Cheat	1000	You may skip a number in the sequence to play this card.
 1,000 Tribbles - Dabo	50th	127V	127V	Dabo	1000	If the previous player activated more than one tribble power the previous turn, you may play this tribble in place of any denomination.
 10,000 Tribbles - Acquire	50th	128V	128V	Acquire	10000	Name a tribble power. If the next tribble played is that power, score points equal to the number of tribbles on that card.
